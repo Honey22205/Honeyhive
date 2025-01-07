@@ -1,5 +1,3 @@
-# Honeyhive
-
 
 # Honeyhive
 
